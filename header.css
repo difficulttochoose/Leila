@@ -1,0 +1,135 @@
+.header{
+	background:url(img/bg.png)no-repeat;
+	background-size: cover;
+	background-position: center center;
+	width: 100%;
+}
+.logoMenu{
+	width:80%;
+	clear:both;
+	display:table;
+	margin: auto;
+	padding:30px 0;
+}
+.logo{
+	float:left;
+}
+.menu{
+	float:right;
+}
+.menu ul{
+	clear:both;
+	display:table;
+}
+.menu ul li{
+	float:left;
+	color:#ffffff;
+	padding:10px;
+	font-size: 12px;
+	font-weight: 500;
+}
+.last{
+	color:#f03c6f!important;
+	border:1px solid #f03c6f;
+	margin-left: 15px;
+	border-radius: 30px;
+	padding:10px 20px!important;
+}
+.content{
+	padding-top: 100px;
+	color:#ffffff;
+	width: 50%;
+	margin: auto;
+	text-align: center;
+	clear:both;
+	display:table;
+}
+.content h1{
+	font-size: 27px;
+	font-weight: 500;
+}
+.content p{
+	padding-top:30px;
+	line-height: 180%;
+	font-size: 14px;
+	font-weight: 200;
+}
+.search{
+	font-family: 'Mukta Malar', sans-serif;
+	width: 35%;
+	margin: auto;
+	clear:both;
+	display:table;
+	padding-top: 50px;
+}
+.mail{
+	width: 63%;
+	float:left;
+	background-color: #ffffff;
+	color:#494949;
+	font-size: 15px;
+	padding-left:40px;
+	padding-top: 13px;
+	padding-bottom: 13px;
+	border-radius: 50px 0px 0px 50px;
+}
+.request{
+	width:28%;
+	float:left;
+	font-weight: 200;
+	color:#ffffff;
+	background-color:#f03c6f;
+	text-align: center;
+	font-size: 14px;
+	padding-top: 14px;
+	padding-bottom: 13px;
+	border-radius: 0px 50px 50px 0px;
+}
+.dialogs{
+	width: 35%;
+	margin: auto;
+	color:#494949;
+	font-family: 'Mukta Malar', sans-serif;
+	padding-top:90px;
+	padding-bottom: 10px;
+	clear:both;
+	display:table;
+}
+.dialogs div{
+	min-height:135px;
+	position:relative;
+	width: 70%;
+	margin: auto;
+}
+.dialogs p{
+	font-size: 15px;
+	line-height: 130%;
+	background: #eeeeee;
+	border-radius: 20px;
+	padding: 30px 30px;
+}
+.dialogs img{
+	position: absolute;
+	width: 86px;
+}
+.user{
+	left:-50px;
+	padding-bottom: 20px;
+}
+.user img{
+	left:-40px;
+	top:5px;
+}
+.user p{
+	padding-left: 60px;
+}
+.leila{
+	right: -50px;
+}
+.leila img{
+	right:-40px;
+	top:8px;
+}
+.leila p{
+	padding-right: 90px;
+}

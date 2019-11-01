@@ -1,0 +1,153 @@
+@media(max-width: 425px){
+	.last{
+		margin: 0;
+	}
+	.content{
+		padding-top:10px;
+		width: 90%;
+		margin: auto;
+	}
+	.search{
+		padding-top: 20px;
+		width:90%;
+	}
+	.mail{
+		width:50%;
+		padding-left: 15px;
+	}
+	.request{
+		width: 40%;
+	}
+	.dialogs{
+		width: 70%;
+		padding-top: 30px;
+	}
+	.dialogs img{
+		width: 70px;
+	}
+	.dialogs p{
+		padding:20px;
+	}
+	.user{
+		left:0;
+	}
+	.user p{
+		padding-left: 40px;
+	}
+	.user img{
+		left:-35px;
+	}
+	.leila{
+		right: 0;
+	}
+	.leila p{
+		padding-right: 40px;
+	}
+	.leila img{
+		right: -35px;
+	}
+}
+@media(min-width: 426px) and (max-width: 600px){
+	.last{
+		margin: 0;
+	}
+	.content{
+		padding-top:10px;
+		width: 90%;
+		margin: auto;
+	}
+	.search{
+		padding-top: 20px;
+		width:390px;
+	}
+	.mail{
+		width:50%;
+		padding-left: 40px;
+	}
+	.request{
+		width: 39%;
+	}
+	.dialogs{
+		width: 70%;
+		padding-top: 30px;
+	}
+	.dialogs img{
+		width: 70px;
+	}
+	.dialogs p{
+		padding:20px;
+	}
+	.user{
+		left:0;
+	}
+	.user p{
+		padding-left: 40px;
+	}
+	.user img{
+		left:-35px;
+	}
+	.leila{
+		right: 0;
+	}
+	.leila p{
+		padding-right: 40px;
+	}
+	.leila img{
+		right: -35px;
+	}
+}
+@media(min-width: 601px) and (max-width: 800px){
+	.last{
+		margin: 0;
+	}
+	.content{
+		padding-top:30px;
+		width: 90%;
+	}
+	.search{
+		padding-top: 20px;
+		width: 452px;
+	}
+	.mail{
+		width:50%;
+	}
+	.request{
+		width:30%;
+	}
+	.dialogs{
+		padding-top: 30px;
+	}
+	.dialogs div{
+		width: 312px;
+		padding-top: 30px;
+	}
+	.dialogs img{
+		top:35px;
+	}
+}
+@media(min-width: 801px) and (max-width: 1270px){
+	.content{
+		padding-top:30px;
+		width: 70%;
+	}
+	.search{
+		padding-top: 20px;
+		width: 452px;
+	}
+	.mail{
+		width:50%;
+	}
+	.request{
+		width:30%;
+	}
+	.dialogs{
+		padding-top: 30px;
+	}
+	.dialogs div{
+		width: 312px;
+		padding-top: 30px;
+	}
+	.dialogs img{
+		top:35px;
+	}
+}

@@ -1,0 +1,96 @@
+.leilas-help{
+	width: 100%;
+}
+.info-leilas-help{
+	width: 70%;
+	margin:auto;
+	clear:both;
+	display:table;
+	padding:130px 0 100px 0;
+}
+.headspan{
+	width: 50%;
+	margin: auto;
+	text-align: center;
+}
+.info-leilas-help h1{
+	font-size: 28px;
+	font-weight: 600;
+	line-height: 130%;
+	padding-bottom:15px;
+}
+.info-leilas-help span{
+	line-height: 150%;
+	font-size: 14px;
+	padding-top: 20px;
+	color:#969696;
+}
+.picture-leilas-help{
+	width: 100%;
+	padding:50px 0;
+}
+.picture-leilas-help img{
+	width:100%;
+	margin:auto;
+}
+.content-leilas-help ul{
+	width:100%;
+	margin:auto;
+	clear:both;
+	display:table;
+	color:#969696;
+}
+.content-leilas-help ul li{
+	width:30%;
+	float:left;
+	margin-right: 5%;
+	border-bottom: 2px solid #f3f3f3;
+	padding-bottom: 20px;
+}
+.content-leilas-help h3{
+	line-height: 180%;
+}
+.themiddle{
+	border-bottom: 0!important;
+}
+.improve{
+	clear:both;
+	display:table;
+}
+.thelast{
+	margin-right: 0!important;
+}
+.antic-problem{
+	clear:both;
+	display:table;
+}
+.boost-sales{
+	width: 100%;
+	float:left;
+	clear:both;
+	display:table;
+}
+.picture-small-div{
+	width: 20%;
+	float:left;
+}
+.picture-small-div img{
+	width: 60%;
+}
+.improve img{
+	width: 70%;
+}
+.content-small-div{
+	width: 80%;
+	float: left;
+	font-size: 11px;
+}
+.content-small-div p{
+	line-height: 180%;
+	font-weight: 600;
+}
+.content-small-div h3{
+	font-size: 14px;
+	font-weight: 600;
+	color:#222;
+}

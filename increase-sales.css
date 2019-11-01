@@ -1,0 +1,55 @@
+.increase-sales{
+	width: 100%;
+	clear:both;
+	display:table;
+}
+.info-increase-sales{
+	width: 70%;
+	margin:auto;
+	clear:both;
+	display:table;
+	padding:100px 0px;
+}
+.content-increase-sales{
+	width:60%;
+	margin: auto;
+	text-align: center;
+	clear:both;
+	display:table;
+}
+.content-increase-sales h1{
+	font-size: 28px;
+	font-weight: 600;
+	line-height: 130%;
+	color:#222;
+}
+.content-increase-sales span{
+	clear:both;
+	display:table;
+	line-height: 150%;
+	font-size: 13px;
+	padding: 15px 0 20px 0;
+	color:#969696;
+	font-weight: 600;
+	margin: auto;
+}
+.content-increase-sales button{
+	font-size: 10px;
+	background: #f03c6f;
+	color:#ffffff;
+	text-align: center;
+	padding-top: 13px;
+	padding-bottom: 13px;
+	border-radius: 50px;
+	border:none;
+	width:150px;
+}
+.picture-increase-sales{
+	width: 80%;
+	margin: auto;
+	padding-top: 50px;
+}
+.picture-increase-sales img{
+	width:100%;
+	margin:auto;
+}
